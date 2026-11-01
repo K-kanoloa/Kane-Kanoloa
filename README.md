@@ -4,6 +4,9 @@
 <p align="center"><strong>让对话，成为行动。</strong><br>Keep the conversation. Move the work forward.</p>
 <p align="center"><a href="https://k-kanoloa.github.io/Kane-Kanoloa/">项目主页</a> · <a href="#快速开始">快速开始</a> · <a href="https://github.com/K-kanoloa/Kane-Kanoloa/archive/refs/heads/main.zip">下载源码</a></p>
 
+<p align="center"><a href="https://github.com/K-kanoloa/Kane-Kanoloa/search?l=python"><img src="docs/assets/languages.svg" width="800" alt="Languages: Python, TypeScript, CSS, JavaScript, Dockerfile"></a></p>
+<p align="center"><sub>代码语言占比 · 根据 GitHub 公开源码统计（2026-11-01）；最新比例见仓库右侧 Languages。</sub></p>
+
 ---
 
 
@@ -37,7 +40,7 @@ npm run setup
 npm start
 ```
 
-`setup` 使用 npm 锁文件安装依赖，为 API 创建独立 Python 环境，并构建网页。成功后打开 **http://127.0.0.1:3000**。按 **Ctrl+C** 停止本次启动的服务。
+`setup` 使用 npm 锁文件安装依赖，为 API 创建独立 Python 环境，并构建网页。成功后打开 [**http://127.0.0.1:3000**](http://127.0.0.1:3000)。按 **Ctrl+C** 停止本次启动的服务。
 
 安装或启动失败时运行：
 
