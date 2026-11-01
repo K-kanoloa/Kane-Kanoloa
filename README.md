@@ -4,9 +4,6 @@
 <p align="center"><strong>让对话，成为行动。</strong><br>Keep the conversation. Move the work forward.</p>
 <p align="center"><a href="https://k-kanoloa.github.io/Kane-Kanoloa/">项目主页</a> · <a href="#快速开始">快速开始</a> · <a href="https://github.com/K-kanoloa/Kane-Kanoloa/archive/refs/heads/main.zip">下载源码</a></p>
 
-<p align="center"><a href="https://github.com/K-kanoloa/Kane-Kanoloa/search?l=python"><img src="docs/assets/languages.svg" width="800" alt="Languages: Python, TypeScript, CSS, JavaScript, Dockerfile"></a></p>
-<p align="center"><sub>代码语言占比 · 根据 GitHub 公开源码统计（2026-11-01）；最新比例见仓库右侧 Languages。</sub></p>
-
 ---
 
 
